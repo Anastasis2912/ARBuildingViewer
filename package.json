@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@vitejs/plugin-basic-ssl": "^2.1.0",
-    "tree": "^0.1.3"
-  }
-}
